@@ -1,4 +1,6 @@
 .idea/
+# 测试模型和文件
+.tmp/
 
 # Python-generated files
 __pycache__/
